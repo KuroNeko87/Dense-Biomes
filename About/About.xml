@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Dense Biomes</name>
+	<author>kuroneko871</author>
+	<supportedVersions>
+		<li>1.0</li>
+		<li>0.19</li>
+	</supportedVersions>
+	<description>Inspired by HelpfulBot's Increased Forest Density. This mod makes certain biomes have a more dense flora. Biomes affected are Boreal Forest, Temperate Forest, and Tropical Jungle. 
+	It also adds support for 3 Terra Core biomes; Mountain Spires, Savanna and Oasis. It also adds support to Vegetable Garden wild fruit trees and plants, meaning they also get a higher spawn chance.
+	Make sure to load at the lowest possible position so it can overwrite the changes.
+	</description>
+</ModMetaData>

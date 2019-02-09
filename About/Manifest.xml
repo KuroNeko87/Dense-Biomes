@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Manifest>
+    <identifier>denseBiomes</identifier>
+    <version>1.2.0.0</version>
+    <loadAfter>
+        <li>VGPVegetableGarden</li>
+        <li>VGPXtraTreesandFlowers</li>
+        <li>TerraProject(Core)</li>
+    </loadAfter>
+    <showCrossPromotions>true</showCrossPromotions>
+</Manifest>

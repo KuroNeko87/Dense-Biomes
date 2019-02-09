@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Patch>
+	<Operation Class="PatchOperationReplace">
+		<xpath>/Defs/ThingDef[defName = "PlantTreeCamellia"]/plant/wildBiomes</xpath>
+		<value>
+			<wildBiomes>
+				<TemperateForest>0.08</TemperateForest>
+				<TropicalRainforest>0.08</TropicalRainforest>
+			</wildBiomes>
+		</value>
+	</Operation>
+	<Operation Class="PatchOperationReplace">
+		<xpath>/Defs/ThingDef[defName = "PlantTreeAcacia"]/plant/wildBiomes</xpath>
+		<value>
+			<wildBiomes>
+				<AridShrubland>0.30</AridShrubland>
+				<Desert>0.40</Desert>
+			</wildBiomes>
+		</value>
+	</Operation>
+	<Operation Class="PatchOperationReplace">
+		<xpath>/Defs/ThingDef[defName = "PlantAnthurium"]/plant/wildBiomes</xpath>
+		<value>
+			<wildBiomes>
+				<TemperateForest>0.12</TemperateForest>
+				<BorealForest>0.12</BorealForest>
+			</wildBiomes>
+		</value>
+	</Operation>
+	<Operation Class="PatchOperationReplace">
+		<xpath>/Defs/ThingDef[defName = "PlantNymphHair"]/plant/wildBiomes</xpath>
+		<value>
+			<wildBiomes>
+				<TemperateForest>0.05</TemperateForest>
+				<TropicalRainforest>0.05</TropicalRainforest>
+				<BorealForest>0.05</BorealForest>
+			</wildBiomes>
+		</value>
+	</Operation>
+	<Operation Class="PatchOperationReplace">
+		<xpath>/Defs/ThingDef[defName = "PlantPlumeria"]/plant/wildBiomes</xpath>
+		<value>
+			<wildBiomes>
+				<TemperateForest>0.05</TemperateForest>
+				<TropicalRainforest>0.05</TropicalRainforest>
+				<BorealForest>0.05</BorealForest>
+				<Tundra>0.05</Tundra>
+			</wildBiomes>
+		</value>
+	</Operation>
+	<Operation Class="PatchOperationReplace">
+		<xpath>/Defs/ThingDef[defName = "PlantSunflower"]/plant/wildBiomes</xpath>
+		<value>
+			<wildBiomes>
+				<TemperateForest>0.05</TemperateForest>
+				<TropicalRainforest>0.05</TropicalRainforest>
+			</wildBiomes>  		
+		</value>
+	</Operation>
+	<Operation Class="PatchOperationReplace">
+		<xpath>/Defs/ThingDef[defName = "WildAppletree"]/plant/wildBiomes</xpath>
+		<value>
+			<wildBiomes>
+				<TemperateForest>0.05</TemperateForest>
+			</wildBiomes>
+		</value>
+	</Operation>
+	<Operation Class="PatchOperationReplace">
+		<xpath>/Defs/ThingDef[defName = "WildBananaTree"]/plant/wildBiomes</xpath>
+		<value>
+			<wildBiomes>
+				<TropicalRainforest>0.05</TropicalRainforest>
+			</wildBiomes>	
+		</value>
+	</Operation>
+	<Operation Class="PatchOperationReplace">
+		<xpath>/Defs/ThingDef[defName = "WildorangeTree"]/plant/wildBiomes</xpath>
+		<value>
+			<wildBiomes>
+				<TropicalRainforest>0.05</TropicalRainforest>
+			</wildBiomes>   		
+		</value>
+	</Operation>
+	<Operation Class="PatchOperationReplace">
+		<xpath>/Defs/ThingDef[defName = "WildPeachTree"]/plant/wildBiomes</xpath>
+		<value>
+			<wildBiomes>
+				<TemperateForest>0.05</TemperateForest>
+				<TropicalRainforest>0.05</TropicalRainforest>
+			</wildBiomes>		
+		</value>
+	</Operation>
+	<Operation Class="PatchOperationReplace">
+		<xpath>/Defs/ThingDef[defName = "WildDateTree"]/plant/wildBiomes</xpath>
+		<value>
+			<wildBiomes>
+				<AridShrubland>0.05</AridShrubland>
+				<Desert>0.05</Desert>
+			</wildBiomes>
+		</value>
+	</Operation>
+	<Operation Class="PatchOperationReplace">
+		<xpath>/Defs/ThingDef[defName = "WildFigTree"]/plant/wildBiomes</xpath>
+		<value>
+			<wildBiomes>
+				<AridShrubland>0.05</AridShrubland>
+				<Desert>0.05</Desert>
+			</wildBiomes>
+		</value>
+	</Operation>
+	<Operation Class="PatchOperationReplace">
+		<xpath>/Defs/ThingDef[defName = "WildCoconuttree"]/plant/wildBiomes</xpath>
+		<value>
+			<wildBiomes>
+				<TropicalRainforest>0.05</TropicalRainforest>
+			</wildBiomes>		
+		</value>
+	</Operation>
+	<Operation Class="PatchOperationReplace">
+		<xpath>/Defs/ThingDef[defName = "WildPlantCherrytree"]/plant/wildBiomes</xpath>
+		<value>
+			<wildBiomes>
+				<TemperateForest>0.05</TemperateForest>
+				<BorealForest>0.05</BorealForest>
+			</wildBiomes>
+		</value>
+	</Operation>
+	<Operation Class="PatchOperationReplace">
+		<xpath>/Defs/ThingDef[defName = "WildPlantpineapple"]/plant/wildBiomes</xpath>
+		<value>
+			<wildBiomes>
+				<TropicalRainforest>0.05</TropicalRainforest>
+			</wildBiomes> 		
+		</value>
+	</Operation>
+	<Operation Class="PatchOperationReplace">
+		<xpath>/Defs/ThingDef[defName = "WildPlantcloudberry"]/plant/wildBiomes</xpath>
+		<value>
+			<wildBiomes>
+				<Tundra>0.05</Tundra>
+				<BorealForest>0.05</BorealForest>
+			</wildBiomes>
+		</value>
+	</Operation>
+	<Operation Class="PatchOperationReplace">
+		<xpath>/Defs/ThingDef[defName = "WildPlantgooseberry"]/plant/wildBiomes</xpath>
+		<value>
+			<wildBiomes>
+				<Tundra>0.05</Tundra>
+				<BorealForest>0.05</BorealForest>
+			</wildBiomes>
+		</value>
+	</Operation>
+	<Operation Class="PatchOperationReplace">
+		<xpath>/Defs/ThingDef[defName = "Plantmushroom"]/plant/wildBiomes</xpath>
+		<value>
+			<wildBiomes>
+				<TemperateForest>0.18</TemperateForest>
+				<TropicalRainforest>0.18</TropicalRainforest>
+				<BorealForest>0.18</BorealForest>
+			</wildBiomes>
+		</value>
+	</Operation>
+</Patch>

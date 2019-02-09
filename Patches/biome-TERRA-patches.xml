@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Patch>
+	<!-- density -->
+	<Operation Class="PatchOperationReplace">
+		<xpath>/Defs/BiomeDef[defName = "SpikeMountains"]/plantDensity</xpath>
+		<value>
+			<plantDensity>1.65</plantDensity>
+		</value>
+	</Operation>
+	<Operation Class="PatchOperationReplace">
+		<xpath>/Defs/BiomeDef[defName = "Savanna"]/plantDensity</xpath>
+		<value>
+			<plantDensity>1.20</plantDensity>
+		</value>
+	</Operation>
+	<Operation Class="PatchOperationReplace">
+		<xpath>/Defs/BiomeDef[defName = "Oasis"]/plantDensity</xpath>
+		<value>
+			<plantDensity>2.21</plantDensity>
+		</value>
+	</Operation>
+	<!-- wildPlants -->
+	<Operation Class="PatchOperationReplace">
+		<xpath>/Defs/BiomeDef[defName = "SpikeMountains"]/wildPlants</xpath>
+		<value>
+			<wildPlants>
+				<Plant_Grass>3.0</Plant_Grass>
+				<Plant_TallGrass>1.3</Plant_TallGrass>
+				<Plant_Brambles>1.0</Plant_Brambles>
+				<Plant_Dandelion>0.3</Plant_Dandelion>
+				<Plant_Bush>0.6</Plant_Bush>
+				<Plant_TreeOak>0.3</Plant_TreeOak>
+				<Plant_TreePoplar>0.7</Plant_TreePoplar>
+				<Plant_TreePine>0.4</Plant_TreePine>
+				<Plant_TreeBirch>0.2</Plant_TreeBirch>
+				<Plant_Berry>0.1</Plant_Berry>
+				<Plant_HealrootWild>0.05</Plant_HealrootWild>
+			</wildPlants>
+		</value>
+	</Operation>
+	<Operation Class="PatchOperationReplace">
+		<xpath>/Defs/BiomeDef[defName = "Savanna"]/wildPlants</xpath>
+		<value>
+			<wildPlants>
+				<Plant_Grass>5.3</Plant_Grass>
+				<Plant_TallGrass>2.0</Plant_TallGrass>
+				<Plant_Dandelion>0.4</Plant_Dandelion>
+				<Plant_Bush>0.5</Plant_Bush>
+				<Plant_PincushionCactus>0.2</Plant_PincushionCactus>
+				<Plant_Agave>0.1</Plant_Agave>
+				<Plant_SaguaroCactus>0.2</Plant_SaguaroCactus>
+				<Plant_TreeDrago>0.8</Plant_TreeDrago>
+				<Plant_TreePoplar>0.15</Plant_TreePoplar>
+				<Plant_Berry>0.05</Plant_Berry>
+			</wildPlants>
+		</value>
+	</Operation>
+	<Operation Class="PatchOperationReplace">
+		<xpath>/Defs/BiomeDef[defName = "Oasis"]/wildPlants</xpath>
+		<value>
+			<wildPlants>
+				<Plant_Grass>3.5</Plant_Grass>
+				<Plant_TallGrass>1.4</Plant_TallGrass>
+				<Plant_PincushionCactus>0.9</Plant_PincushionCactus>
+				<Plant_SaguaroCactus>0.6</Plant_SaguaroCactus>
+				<Plant_Dandelion>0.2</Plant_Dandelion>
+				<Plant_Bush>0.4</Plant_Bush>
+				<Plant_TreeDrago>0.5</Plant_TreeDrago>
+				<Plant_TreePalm>0.8</Plant_TreePalm>
+				<Plant_TreePoplar>0.05</Plant_TreePoplar>
+				<Plant_Agave>0.2</Plant_Agave>
+				<Plant_Berry>0.1</Plant_Berry>
+			</wildPlants>
+		</value>
+	</Operation>
+</Patch>
