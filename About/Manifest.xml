@@ -8,4 +8,5 @@
         <li>TerraProject(Core)</li>
     </loadAfter>
     <showCrossPromotions>true</showCrossPromotions>
+	<manifestUri>https://raw.githubusercontent.com/KuroNeko87/Dense-Biomes/master/About/Manifest.xml</manifestUri>
 </Manifest>
